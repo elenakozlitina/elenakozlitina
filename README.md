@@ -1,16 +1,22 @@
-## Hi there 👋
+## Hi there 👋 I`m Kozlitina Elena
+I'm a third-year student majoring in Artificial Intelligence. I love tackling complex problems and developing innovative projects. Here's a bit about me and my skills:
+##My Skills:
 
-<!--
-**elenakozlitina/elenakozlitina** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+###Programming Languages:
+- Python
+- SQL
+- C++ (a bit)
+  
+###Libraries and Tools:
+PyTorch
+NumPy
+Matplotlib
+Pandas
 
-Here are some ideas to get you started:
+###Other Skills:
+Data Analysis
+Machine Learning
+Research
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+
