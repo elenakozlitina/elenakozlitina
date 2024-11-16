@@ -1,6 +1,5 @@
 ## Hi there 👋 I`m Kozlitina Elena
-I'm a third-year student majoring in Artificial Intelligence. I love tackling complex problems and developing innovative projects. Here's a bit about me and my skills:
-## My Skills:
+I am a Data Engineer passionate about designing scalable data systems, optimizing workflows, and solving complex data challenges with innovative solutions. Here's a bit about me and my skills:
 ### Programming Languages:
 Python
 SQL
